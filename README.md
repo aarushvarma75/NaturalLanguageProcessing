@@ -1,4 +1,3 @@
-# hello-world
-First try 
+# NLP
+This repository contains Natural Language Processing projects.
 
-Hi I am Aarush. Its my first time using Github
